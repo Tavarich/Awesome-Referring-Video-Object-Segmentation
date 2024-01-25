@@ -1,1 +1,1 @@
-# Awesome-Referring-Video-Object-SegmentationAwesome-Referring-Video-Object-Segmentation
+# Awesome-Referring-Video-Object-Segmentation
