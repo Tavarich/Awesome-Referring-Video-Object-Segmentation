@@ -6,19 +6,18 @@ Continually updating papers of referring video object segmentation😊
 
 ## 2024
 
-| Model | Title | Venue | Paper | Code|
-|  :-:  |  :-:  |  ---  |  ---  | --- |
+| Model    | Title                                                        | Venue | Paper                                                        | Code                                          |
+| -------- | :----------------------------------------------------------- | :---- | :----------------------------------------------------------- | --------------------------------------------- |
 | TCE-RVOS | Temporal Context Enhanced Referring Video Object Segmentation | WACV  | [PDF](https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Temporal_Context_Enhanced_Referring_Video_Object_Segmentation_WACV_2024_paper.pdf) | [Code](https://github.com/haliphinx/TCE-RVOS) |
-| MUTR     | Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation | AAAI  | [PDF](https://arxiv.org/pdf/2305.16318.pdf)                  | [Code](https://github.com/OpenGVLab/MUTR)|
-| --- | --- | ---   | ---   | ---  |
+| MUTR     | Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation | AAAI  | [PDF](https://arxiv.org/pdf/2305.16318.pdf)                  | [Code](https://github.com/OpenGVLab/MUTR)     |
+| ---      | ---                                                          | ---   | ---                                                          | ---                                           |
 | FTEA     | Fully Transformer-Equipped Architecture for end-to-end Referring Video Object Segmentation | IP&M  | [PDF](https://www.sciencedirect.com/science/article/pii/S0306457323003035) |                                               |
 | ---      | ---                                                          | ---   | ---                                                          | ---                                           |
-|          |                                                              |       |                                                              |                                               |
 
 ## 2023
 
 | Model       | Title                                                        | Venue   | Paper                                                        | Code                                                         |
-| ----------- | ------------------------------------------------------------ | ------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| :---------- | :----------------------------------------------------------- | :------ | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | OnlineRefer | OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation | ICCV    | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_OnlineRefer_A_Simple_Online_Baseline_for_Referring_Video_Object_Segmentation_ICCV_2023_paper.pdf) | [Code](https://github.com/wudongming97/OnlineRefer)          |
 | LMPM        | MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions | ICCV    | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Ding_MeViS_A_Large-scale_Benchmark_for_Video_Segmentation_with_Motion_Expressions_ICCV_2023_paper.pdf) | [Code](https://github.com/henghuiding/MeViS)                 |
 | SgMg        | Spectrum-guided Multi-granularity Referring Video Object Segmentation | ICCV    | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Miao_Spectrum-guided_Multi-granularity_Referring_Video_Object_Segmentation_ICCV_2023_paper.pdf) | [Code](https://github.com/bo-miao/SgMg)                      |
@@ -34,7 +33,7 @@ Continually updating papers of referring video object segmentation😊
 | Locater     | Local-Global Context Aware Transformer for Language-Guided Video Segmentation | TPAMI   | [PDF](https://ieeexplore.ieee.org/abstract/document/10083244) | [Code](https://github.com/leonnnop/Locater)                  |
 | VLT         | VLT: Vision-Language Transformer and Query Generation for Referring Segmentation | TPAMI   | [PDF](https://ieeexplore.ieee.org/abstract/document/9932025) | [Code](https://github.com/henghuiding/Vision-Language-Transformer) |
 | ---         | ---                                                          | ---     | ---                                                          | ---                                                          |
-| BIFIT       | Bidirectional Correlation-Driven Inter-Frame Interaction Transformer for Referring Video Object Segmentation | Arxiv   | [PDF]([2307.00536.pdf (arxiv.org)](https://arxiv.org/pdf/2307.00536.pdf)) |                                                              |
+| BIFIT       | Bidirectional Correlation-Driven Inter-Frame Interaction Transformer for Referring Video Object Segmentation | Arxiv   | [PDF](https://arxiv.org/pdf/2307.00536.pdf)                  |                                                              |
 | EPCFormer   | EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation | Arxiv   | [PDF](https://arxiv.org/pdf/2308.04162.pdf)                  | [Code](https://github.com/lab206/EPCFormer)                  |
 | RefSAM      | Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation | Arxiv   | [PDF](https://arxiv.org/pdf/2307.00997.pdf)                  | [Code](https://github.com/LancasterLi/RefSAM)                |
 | LoSh        | LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation | Arxiv   | [PDF](https://arxiv.org/pdf/2306.08736.pdf)                  |                                                              |
@@ -44,7 +43,7 @@ Continually updating papers of referring video object segmentation😊
 ## 2022
 
 | Model       | Title                                                        | Venue  | Paper                                                        | Code                                         |
-| ----------- | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ | -------------------------------------------- |
+| :---------- | :----------------------------------------------------------- | :----- | :----------------------------------------------------------- | :------------------------------------------- |
 | MTTR        | End-to-End Referring Video Object Segmentation with Multimodal Transformers | CVPR   | [PDF]()                                                      | [Code]()                                     |
 | ReferFormer | Language as Queries for Referring Video Object Segmentation  | CVPR   | [PDF]()                                                      | [Code]()                                     |
 | LBDT        | Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation | CVPR   | [PDF]()                                                      | [Code]()                                     |
@@ -62,7 +61,7 @@ Continually updating papers of referring video object segmentation😊
 ## 2020
 
 | Model | Title                                                        | Venue | Paper   | Code     |
-| ----- | ------------------------------------------------------------ | ----- | ------- | -------- |
+| :---- | :----------------------------------------------------------- | :---- | :------ | :------- |
 | URVOS | URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark | ECCV  | [PDF]() | [Code]() |
 | ---   | ---                                                          | ---   | ---     | ---      |
 | ---   | ---                                                          | ---   | ---     | ---      |
@@ -71,10 +70,10 @@ Continually updating papers of referring video object segmentation😊
 
 ## 2018
 
-| Model   | Title | Venue | Paper                                                        | Code |
-| ------- | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ | ---- |
+| Model   | Title                                                        | Venue | Paper                                                        | Code |
+| :------ | :----------------------------------------------------------- | :---- | :----------------------------------------------------------- | :--- |
 | A2D*    | Actor and Action Video Segmentation from a Sentence          | CVPR  | [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gavrilyuk_Actor_and_Action_CVPR_2018_paper.pdf) |      |
 | RE-VOS* | Video Object Segmentation with Language Referring Expressions | ACCV  | [PDF](https://arxiv.org/pdf/1803.08006.pdf)                  |      |
-| ---    | --- | --- | --- | --- |
-| ---    | --- | --- | --- | --- |
+| ---     | ---                                                          | ---   | ---                                                          | ---  |
+| ---     | ---                                                          | ---   | ---                                                          | ---  |
 
