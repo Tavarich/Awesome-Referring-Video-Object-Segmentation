@@ -14,6 +14,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | MUTR     | Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation | AAAI  | [PDF](https://arxiv.org/pdf/2305.16318.pdf)                  | [Code](https://github.com/OpenGVLab/MUTR)     |
 | FTEA     | Fully Transformer-Equipped Architecture for end-to-end Referring Video Object Segmentation | IP&M  | [PDF](https://www.sciencedirect.com/science/article/pii/S0306457323003035) |                                               |
 | TrackGPT | Tracking with Human-Intent Reasoning | Arxiv  | [PDF](https://arxiv.org/abs/2312.17448) | [code](https://github.com/jiawen-zhu/TrackGPT)|
+| UniVS    | UniVS: Unified and Universal Video Segmentation with Prompts as Queries  | Arxiv | [PDF](https://arxiv.org/pdf/2402.18115.pdf)| [Code](https://github.com/MinghanLi/UniVS) |
 
 ## 2023
 
