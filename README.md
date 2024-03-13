@@ -10,6 +10,8 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 
 | Model    | Title                                                        | Venue | Paper                                                        | Code                                          |
 | -------- | :----------------------------------------------------------- | :---- | :----------------------------------------------------------- | --------------------------------------------- |
+| LoSh | LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2306.08736.pdf) |  |
+| DSHMP* | Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation | CVPR |  |  |
 | TCE-RVOS | Temporal Context Enhanced Referring Video Object Segmentation | WACV  | [PDF](https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Temporal_Context_Enhanced_Referring_Video_Object_Segmentation_WACV_2024_paper.pdf) | [Code](https://github.com/haliphinx/TCE-RVOS) |
 | MUTR     | Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation | AAAI  | [PDF](https://arxiv.org/pdf/2305.16318.pdf)                  | [Code](https://github.com/OpenGVLab/MUTR)     |
 | FTEA     | Fully Transformer-Equipped Architecture for end-to-end Referring Video Object Segmentation | IP&M  | [PDF](https://www.sciencedirect.com/science/article/pii/S0306457323003035) |                                               |
@@ -39,7 +41,6 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | BIFIT       | Bidirectional Correlation-Driven Inter-Frame Interaction Transformer for Referring Video Object Segmentation | Arxiv   | [PDF](https://arxiv.org/pdf/2307.00536.pdf)                  |                                                              |
 | EPCFormer   | EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation | Arxiv   | [PDF](https://arxiv.org/pdf/2308.04162.pdf)                  | [Code](https://github.com/lab206/EPCFormer)                  |
 | RefSAM      | Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation | Arxiv   | [PDF](https://arxiv.org/pdf/2307.00997.pdf)                  | [Code](https://github.com/LancasterLi/RefSAM)                |
-| LoSh        | LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation | Arxiv   | [PDF](https://arxiv.org/pdf/2306.08736.pdf)                  |                                                              |
 | UniRef++    | UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces | Arxiv   | [PDF](https://arxiv.org/abs/2312.15715)                      | [Code](https://github.com/FoundationVision/UniRef)           |
 | SimRVOS     | Learning Referring Video Object Segmentation from Weak Annotation | Arxiv   | [PDF](https://arxiv.org/pdf/2308.02162.pdf)                  |                                                              |
 
