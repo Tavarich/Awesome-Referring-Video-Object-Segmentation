@@ -19,6 +19,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | UniVS    | UniVS: Unified and Universal Video Segmentation with Prompts as Queries  | Arxiv | [PDF](https://arxiv.org/pdf/2402.18115.pdf)| [Code](https://github.com/MinghanLi/UniVS) |
 | LTCA    | LTCA: Long-range Temporal Context Attention for Referring Video Object Segmentation  | Arxiv | [PDF]()| [Code](https://github.com/cilinyan/LTCA) |
 | VD-IT   | Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation  | Arxiv | [PDF](https://arxiv.org/pdf/2403.12042.pdf)| [Code](https://github.com/buxiangzhiren/VD-IT) |
+| HTR   | Towards Temporally Consistent Referring Video Object Segmentation  | Arxiv | [PDF](https://arxiv.org/pdf/2403.19407.pdf)|  |
 
 ## 2023
 
