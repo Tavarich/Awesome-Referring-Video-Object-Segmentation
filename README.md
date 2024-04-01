@@ -11,7 +11,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | Model    | Title                                                        | Venue | Paper                                                        | Code                                          |
 | -------- | :----------------------------------------------------------- | :---- | :----------------------------------------------------------- | --------------------------------------------- |
 | LoSh | LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2306.08736.pdf) |  |
-| DSHMP* | Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation | CVPR |  |  |
+| DsHmp | Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation | CVPR |  | [Code](https://github.com/heshuting555/DsHmp) |
 | TCE-RVOS | Temporal Context Enhanced Referring Video Object Segmentation | WACV  | [PDF](https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Temporal_Context_Enhanced_Referring_Video_Object_Segmentation_WACV_2024_paper.pdf) | [Code](https://github.com/haliphinx/TCE-RVOS) |
 | MUTR     | Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation | AAAI  | [PDF](https://arxiv.org/pdf/2305.16318.pdf)                  | [Code](https://github.com/OpenGVLab/MUTR)     |
 | FTEA     | Fully Transformer-Equipped Architecture for end-to-end Referring Video Object Segmentation | IP&M  | [PDF](https://www.sciencedirect.com/science/article/pii/S0306457323003035) |                                               |
