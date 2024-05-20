@@ -20,6 +20,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | LTCA    | LTCA: Long-range Temporal Context Attention for Referring Video Object Segmentation  | Arxiv | [PDF]()| [Code](https://github.com/cilinyan/LTCA) |
 | VD-IT   | Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation  | Arxiv | [PDF](https://arxiv.org/pdf/2403.12042.pdf)| [Code](https://github.com/buxiangzhiren/VD-IT) |
 | HTR   | Towards Temporally Consistent Referring Video Object Segmentation  | Arxiv | [PDF](https://arxiv.org/pdf/2403.19407.pdf)|  [Code](https://github.com/bo-miao/HTR)|
+| VLP-RVOS | Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models | Arxiv | [PDF](https://arxiv.org/pdf/2405.10610)|  |
 
 ## 2023
 
