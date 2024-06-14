@@ -12,11 +12,12 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | -------- | :----------------------------------------------------------- | :---- | :----------------------------------------------------------- | --------------------------------------------- |
 | LoSh | LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2306.08736.pdf) | [Code](https://github.com/LinfengYuan1997/LoSh) |
 | DsHmp | Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2404.03645.pdf) | [Code](https://github.com/heshuting555/DsHmp) |
+| UniVS    | UniVS: Unified and Universal Video Segmentation with Prompts as Queries  | CVPR | [PDF](https://arxiv.org/pdf/2402.18115.pdf)| [Code](https://github.com/MinghanLi/UniVS) |
+| GLEE | General Object Foundation Model for Images and Videos at Scale | CVPR |[PDF](https://arxiv.org/pdf/2312.09158.pdf) | [Code](https://github.com/FoundationVision/GLEE) |
 | TCE-RVOS | Temporal Context Enhanced Referring Video Object Segmentation | WACV  | [PDF](https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Temporal_Context_Enhanced_Referring_Video_Object_Segmentation_WACV_2024_paper.pdf) | [Code](https://github.com/haliphinx/TCE-RVOS) |
 | MUTR     | Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation | AAAI  | [PDF](https://arxiv.org/pdf/2305.16318.pdf)                  | [Code](https://github.com/OpenGVLab/MUTR)     |
 | FTEA     | Fully Transformer-Equipped Architecture for end-to-end Referring Video Object Segmentation | IP&M  | [PDF](https://www.sciencedirect.com/science/article/pii/S0306457323003035) |                                               |
 | TrackGPT | Tracking with Human-Intent Reasoning | Arxiv  | [PDF](https://arxiv.org/abs/2312.17448) | [Code](https://github.com/jiawen-zhu/TrackGPT)|
-| UniVS    | UniVS: Unified and Universal Video Segmentation with Prompts as Queries  | Arxiv | [PDF](https://arxiv.org/pdf/2402.18115.pdf)| [Code](https://github.com/MinghanLi/UniVS) |
 | LTCA    | LTCA: Long-range Temporal Context Attention for Referring Video Object Segmentation  | Arxiv | [PDF]()| [Code](https://github.com/cilinyan/LTCA) |
 | VD-IT   | Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation  | Arxiv | [PDF](https://arxiv.org/pdf/2403.12042.pdf)| [Code](https://github.com/buxiangzhiren/VD-IT) |
 | HTR   | Towards Temporally Consistent Referring Video Object Segmentation  | Arxiv | [PDF](https://arxiv.org/pdf/2403.19407.pdf)|  [Code](https://github.com/bo-miao/HTR)|
