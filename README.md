@@ -22,6 +22,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | VD-IT   | Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation  | Arxiv | [PDF](https://arxiv.org/pdf/2403.12042.pdf)| [Code](https://github.com/buxiangzhiren/VD-IT) |
 | HTR   | Towards Temporally Consistent Referring Video Object Segmentation  | Arxiv | [PDF](https://arxiv.org/pdf/2403.19407.pdf)|  [Code](https://github.com/bo-miao/HTR)|
 | VLP-RVOS | Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models | Arxiv | [PDF](https://arxiv.org/pdf/2405.10610)|  |
+| GroPrompt | GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2406.12834)|  |
 
 ## 2023
 
@@ -52,9 +53,9 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 
 | Model       | Title                                                        | Venue  | Paper                                                        | Code                                            |
 | :---------- | :----------------------------------------------------------- | :----- | :----------------------------------------------------------- | :---------------------------------------------- |
-| MTTR        | End-to-End Referring Video Object Segmentation with Multimodal Transformers | CVPR   | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Botach_End-to-End_Referring_Video_Object_Segmentation_With_Multimodal_Transformers_CVPR_2022_paper.pdf) | [Code]()                                        |
-| ReferFormer | Language as Queries for Referring Video Object Segmentation  | CVPR   | [PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Language_As_Queries_for_Referring_Video_Object_Segmentation_CVPR_2022_paper.html) | [Code]()                                        |
-| LBDT        | Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation | CVPR   | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Language-Bridged_Spatial-Temporal_Interaction_for_Referring_Video_Object_Segmentation_CVPR_2022_paper.pdf) | [Code]()                                        |
+| MTTR        | End-to-End Referring Video Object Segmentation with Multimodal Transformers | CVPR   | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Botach_End-to-End_Referring_Video_Object_Segmentation_With_Multimodal_Transformers_CVPR_2022_paper.pdf) | [Code](https://github.com/mttr2021/MTTR)                                        |
+| ReferFormer | Language as Queries for Referring Video Object Segmentation  | CVPR   | [PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Language_As_Queries_for_Referring_Video_Object_Segmentation_CVPR_2022_paper.html) | [Code](https://github.com/wjn922/ReferFormer)                                        |
+| LBDT        | Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation | CVPR   | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Language-Bridged_Spatial-Temporal_Interaction_for_Referring_Video_Object_Segmentation_CVPR_2022_paper.pdf) | [Code](https://github.com/dzh19990407/LBDT)                                        |
 | MLRL*       | Multi-Level Representation Learning with Semantic Alignment for Referring Video Object Segmentation | CVPR   | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Multi-Level_Representation_Learning_With_Semantic_Alignment_for_Referring_Video_Object_CVPR_2022_paper.pdf) |                                                 |
 | MANet       | Multi-Attention Network for Compressed Video Referring Object Segmentation | ACM MM | [PDF](https://dl.acm.org/doi/pdf/10.1145/3503161.3547761)    | [Code](https://github.com/DexiangHong/MANet)    |
 | YOFO        | You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation | AAAI   | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20017) |                                                 |
