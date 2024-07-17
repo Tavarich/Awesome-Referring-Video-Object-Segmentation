@@ -19,9 +19,10 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | GroPrompt | GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation | CVPRW | [PDF](https://arxiv.org/pdf/2406.12834)|  |
 | FTEA     | Fully Transformer-Equipped Architecture for end-to-end Referring Video Object Segmentation | IP&M  | [PDF](https://www.sciencedirect.com/science/article/pii/S0306457323003035) |                                               |
 | HTR   | Temporally Consistent Referring Video Object Segmentation with Hybrid Memory  | TCSVT | [PDF](https://ieeexplore.ieee.org/abstract/document/10572009)|  [Code](https://github.com/bo-miao/HTR)|
+| VD-IT   | Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation  | ECCV | [PDF](https://arxiv.org/pdf/2403.12042.pdf)| [Code](https://github.com/buxiangzhiren/VD-IT) |
+| VISA   | Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation  | ECCV | [PDF](https://arxiv.org/pdf/2407.11325)| [Code](https://github.com/cilinyan/VISA) |
 | TrackGPT | Tracking with Human-Intent Reasoning | Arxiv  | [PDF](https://arxiv.org/abs/2312.17448) | [Code](https://github.com/jiawen-zhu/TrackGPT)|
-| LTCA    | LTCA: Long-range Temporal Context Attention for Referring Video Object Segmentation  | Arxiv | [PDF]()| [Code](https://github.com/cilinyan/LTCA) |
-| VD-IT   | Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation  | Arxiv | [PDF](https://arxiv.org/pdf/2403.12042.pdf)| [Code](https://github.com/buxiangzhiren/VD-IT) |
+| LTCA    | LTCA: Long-range Temporal Context Attention for Referring Video Object Segmentation  | Arxiv | | [Code](https://github.com/cilinyan/LTCA) |
 | VLP-RVOS | Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models | Arxiv | [PDF](https://arxiv.org/pdf/2405.10610)|  |
 
 
