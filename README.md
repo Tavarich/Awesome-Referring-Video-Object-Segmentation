@@ -25,6 +25,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | TrackGPT | Tracking with Human-Intent Reasoning | Arxiv  | [PDF](https://arxiv.org/abs/2312.17448) | [Code](https://github.com/jiawen-zhu/TrackGPT)|
 | LTCA    | LTCA: Long-range Temporal Context Attention for Referring Video Object Segmentation  | Arxiv | | [Code](https://github.com/cilinyan/LTCA) |
 | VLP-RVOS | Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models | Arxiv | [PDF](https://arxiv.org/pdf/2405.10610)|  |
+| ViLLa | ViLLa: Video Reasoning Segmentation with Large Language Model | Arxiv | [PDF](https://arxiv.org/pdf/2407.14500) | [Code](https://github.com/rkzheng99/ViLLa) |
 
 
 ## 2023
