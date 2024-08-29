@@ -26,6 +26,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | LTCA    | LTCA: Long-range Temporal Context Attention for Referring Video Object Segmentation  | Arxiv | | [Code](https://github.com/cilinyan/LTCA) |
 | VLP-RVOS | Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models | Arxiv | [PDF](https://arxiv.org/pdf/2405.10610)|  |
 | ViLLa | ViLLa: Video Reasoning Segmentation with Large Language Model | Arxiv | [PDF](https://arxiv.org/pdf/2407.14500) | [Code](https://github.com/rkzheng99/ViLLa) |
+| AL-Ref-SAM 2 | Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2408.15876) |  |
 
 
 ## 2023
