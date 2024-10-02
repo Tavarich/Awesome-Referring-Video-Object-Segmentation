@@ -27,6 +27,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | VLP-RVOS | Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models | Arxiv | [PDF](https://arxiv.org/pdf/2405.10610)|  |
 | ViLLa | ViLLa: Video Reasoning Segmentation with Large Language Model | Arxiv | [PDF](https://arxiv.org/pdf/2407.14500) | [Code](https://github.com/rkzheng99/ViLLa) |
 | AL-Ref-SAM 2 | Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2408.15876) |  |
+| VideoLISA | One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos | NeurlPS | [PDF](https://arxiv.org/pdf/2409.19603)| [Code](https://github.com/showlab/VideoLISA) |
 
 
 ## 2023
