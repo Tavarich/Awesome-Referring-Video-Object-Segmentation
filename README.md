@@ -27,7 +27,8 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | VLP-RVOS | Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models | Arxiv | [PDF](https://arxiv.org/pdf/2405.10610)|  |
 | ViLLa | ViLLa: Video Reasoning Segmentation with Large Language Model | Arxiv | [PDF](https://arxiv.org/pdf/2407.14500) | [Code](https://github.com/rkzheng99/ViLLa) |
 | AL-Ref-SAM 2 | Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2408.15876) |  |
-| VideoLISA | One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos | NeurlPS | [PDF](https://arxiv.org/pdf/2409.19603)| [Code](https://github.com/showlab/VideoLISA) |
+| VideoLISA | One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos | NeurIPS | [PDF](https://arxiv.org/pdf/2409.19603)| [Code](https://github.com/showlab/VideoLISA) |
+| UniPHD | Referring Human Pose and Mask Estimation In the Wild |NeurIPS| [PDF](https://arxiv.org/abs/2410.20508) | [Code](https://github.com/bo-miao/RefHuman) |
 |REM |ReferEverything: Towards Segmenting Everything We Can Speak of in Videos|Arxiv|[PDF](https://arxiv.org/pdf/2410.23287)|[Code](https://miccooper9.github.io/projects/ReferEverything/)|
 
 
@@ -43,7 +44,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | R2VOS       | Robust Referring Video Object Segmentation with Cyclic Structural Consensus | ICCV    | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Robust_Referring_Video_Object_Segmentation_with_Cyclic_Structural_Consensus_ICCV_2023_paper.pdf) | [Code](https://github.com/lxa9867/R2VOS)                     |
 | FS-RVOS     | Learning Cross-Modal Affinity for Referring Video Object Segmentation Targeting Limited Samples | ICCV    | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Learning_Cross-Modal_Affinity_for_Referring_Video_Object_Segmentation_Targeting_Limited_ICCV_2023_paper.pdf) | [Code](https://github.com/hengliusky/Few_shot_RVOS)          |
 | UniRef      | Segment Every Reference Object in Spatial and Temporal Spaces | ICCV    | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Segment_Every_Reference_Object_in_Spatial_and_Temporal_Spaces_ICCV_2023_paper.pdf) | [Code](https://github.com/FoundationVision/UniRef)           |
-| SOC         | SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation | NeurlPS | [PDF](https://arxiv.org/pdf/2305.17011.pdf)                  | [Code](https://github.com/RobertLuo1/NeurIPS2023_SOC)        |
+| SOC         | SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation | NeurIPS | [PDF](https://arxiv.org/pdf/2305.17011.pdf)                  | [Code](https://github.com/RobertLuo1/NeurIPS2023_SOC)        |
 | DMFormer    | Decoupling Multimodal Transformers for Referring Video Object Segmentation | TCSVT   | [PDF](https://ieeexplore.ieee.org/document/10147907)         | [Code](https://github.com/gaomingqi/dmformer)                |
 | UniMM*      | Unified Multi-Modality Video Object Segmentation Using Reinforcement Learning | TCSVT   | [PDF](https://ieeexplore.ieee.org/abstract/document/10146303) |                                                              |
 | Locater     | Local-Global Context Aware Transformer for Language-Guided Video Segmentation | TPAMI   | [PDF](https://ieeexplore.ieee.org/abstract/document/10083244) | [Code](https://github.com/leonnnop/Locater)                  |
