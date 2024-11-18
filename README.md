@@ -30,6 +30,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | VideoLISA | One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos | NeurIPS | [PDF](https://arxiv.org/pdf/2409.19603)| [Code](https://github.com/showlab/VideoLISA) |
 | UniPHD | Referring Human Pose and Mask Estimation In the Wild |NeurIPS| [PDF](https://arxiv.org/abs/2410.20508) | [Code](https://github.com/bo-miao/RefHuman) |
 |REM |ReferEverything: Towards Segmenting Everything We Can Speak of in Videos|Arxiv|[PDF](https://arxiv.org/pdf/2410.23287)|[Code](https://miccooper9.github.io/projects/ReferEverything/)|
+| OMFormer | Show Me When and Where: Towards Referring Video Object Segmentation in the Wild | Arxiv | | [Code](https://github.com/gaomingqi/YoURVOS) |
 
 
 ## 2023
