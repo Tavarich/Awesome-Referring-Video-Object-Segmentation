@@ -29,8 +29,11 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | AL-Ref-SAM 2 | Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2408.15876) |  |
 | VideoLISA | One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos | NeurIPS | [PDF](https://arxiv.org/pdf/2409.19603)| [Code](https://github.com/showlab/VideoLISA) |
 | UniPHD | Referring Human Pose and Mask Estimation In the Wild |NeurIPS| [PDF](https://arxiv.org/abs/2410.20508) | [Code](https://github.com/bo-miao/RefHuman) |
-|REM |ReferEverything: Towards Segmenting Everything We Can Speak of in Videos|Arxiv|[PDF](https://arxiv.org/pdf/2410.23287)|[Code](https://miccooper9.github.io/projects/ReferEverything/)|
+| REM |ReferEverything: Towards Segmenting Everything We Can Speak of in Videos|Arxiv|[PDF](https://arxiv.org/pdf/2410.23287)|[Code](https://miccooper9.github.io/projects/ReferEverything/)|
 | OMFormer | Show Me When and Where: Towards Referring Video Object Segmentation in the Wild | Arxiv | | [Code](https://github.com/gaomingqi/YoURVOS) |
+| HyperSeg | HyperSeg: Towards Universal Visual Segmentation with Large Language Model | Arxiv | [PDF](https://arxiv.org/pdf/2411.17606) |[Code](https://github.com/congvvc/HyperSeg) |
+| SAMWISE | SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2411.17646) |[Code](https://github.com/ClaudiaCuttano/SAMWISE)|
+| MoRA | Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level | Arxiv | [PDF](https://arxiv.org/abs/2411.09921) | [Project](https://groundmore.github.io/) |
 
 
 ## 2023
