@@ -34,6 +34,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | HyperSeg | HyperSeg: Towards Universal Visual Segmentation with Large Language Model | Arxiv | [PDF](https://arxiv.org/pdf/2411.17606) |[Code](https://github.com/congvvc/HyperSeg) |
 | SAMWISE | SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2411.17646) |[Code](https://github.com/ClaudiaCuttano/SAMWISE)|
 | MoRA | Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level | Arxiv | [PDF](https://arxiv.org/abs/2411.09921) | [Project](https://groundmore.github.io/) |
+| SOLA | Referring Video Object Segmentation via Language-aligned Track Selection | Arxiv | [PDF](https://arxiv.org/pdf/2412.01136) | [Project](https://cvlab-kaist.github.io/SOLA/) | 
 
 
 ## 2023
