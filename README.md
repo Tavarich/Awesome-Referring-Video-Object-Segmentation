@@ -32,6 +32,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | REM |ReferEverything: Towards Segmenting Everything We Can Speak of in Videos|Arxiv|[PDF](https://arxiv.org/pdf/2410.23287)|[Code](https://miccooper9.github.io/projects/ReferEverything/)|
 | OMFormer | Show Me When and Where: Towards Referring Video Object Segmentation in the Wild | Arxiv | | [Code](https://github.com/gaomingqi/YoURVOS) |
 | HyperSeg | HyperSeg: Towards Universal Visual Segmentation with Large Language Model | Arxiv | [PDF](https://arxiv.org/pdf/2411.17606) |[Code](https://github.com/congvvc/HyperSeg) |
+| InstructSeg | InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models | Arxiv | [PDF](https://arxiv.org/pdf/2412.14006) |[Code](https://github.com/congvvc/InstructSeg) |
 | SAMWISE | SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2411.17646) |[Code](https://github.com/ClaudiaCuttano/SAMWISE)|
 | MoRA | Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level | Arxiv | [PDF](https://arxiv.org/abs/2411.09921) | [Project](https://groundmore.github.io/) |
 | SOLA | Referring Video Object Segmentation via Language-aligned Track Selection | Arxiv | [PDF](https://arxiv.org/pdf/2412.01136) | [Project](https://cvlab-kaist.github.io/SOLA/) | 
