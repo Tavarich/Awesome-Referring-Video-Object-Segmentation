@@ -6,6 +6,12 @@ Continually updating papers of referring video object segmentation😊
 
 Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com/fanghaook/Awesome-Video-Instance-Segmentation)
 
+## 2025
+| Model    | Title                                                        | Venue | Paper                                                        | Code                                          |
+| -------- | :----------------------------------------------------------- | :---- | :----------------------------------------------------------- | --------------------------------------------- |
+| AL-Ref-SAM 2 | Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation | AAAI | [PDF](https://arxiv.org/pdf/2408.15876) | [Code](https://github.com/appletea233/AL-Ref-SAM2) |
+
+
 ## 2024
 
 | Model    | Title                                                        | Venue | Paper                                                        | Code                                          |
@@ -22,13 +28,14 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | VD-IT   | Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation  | ECCV | [PDF](https://arxiv.org/pdf/2403.12042.pdf)| [Code](https://github.com/buxiangzhiren/VD-IT) |
 | VISA   | Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation  | ECCV | [PDF](https://arxiv.org/pdf/2407.11325)| [Code](https://github.com/cilinyan/VISA) |
 | Ref-AVS   | Ref-AVS: Refer and Segment Objects in Audio-Visual Scenes | ECCV | | [Code](https://github.com/GeWu-Lab/Ref-AVS) |
+| VideoLISA | One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos | NeurIPS | [PDF](https://arxiv.org/pdf/2409.19603)| [Code](https://github.com/showlab/VideoLISA) |
+| UniPHD | Referring Human Pose and Mask Estimation In the Wild |NeurIPS| [PDF](https://arxiv.org/abs/2410.20508) | [Code](https://github.com/bo-miao/RefHuman) |
+| BIFIT | Bidirectional Correlation-Driven Inter-Frame Interaction Transformer for Referring Video Object Segmentation | PR | [PDF](https://arxiv.org/pdf/2307.00536.pdf) |  |
+| MHTMA | Mamba-driven hierarchical temporal multimodal alignment for referring video object segmentation | Neurocomputing | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231224020794) |  |
 | TrackGPT | Tracking with Human-Intent Reasoning | Arxiv  | [PDF](https://arxiv.org/abs/2312.17448) | [Code](https://github.com/jiawen-zhu/TrackGPT)|
 | LTCA    | LTCA: Long-range Temporal Context Attention for Referring Video Object Segmentation  | Arxiv | | [Code](https://github.com/cilinyan/LTCA) |
 | VLP-RVOS | Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models | Arxiv | [PDF](https://arxiv.org/pdf/2405.10610)|  |
 | ViLLa | ViLLa: Video Reasoning Segmentation with Large Language Model | Arxiv | [PDF](https://arxiv.org/pdf/2407.14500) | [Code](https://github.com/rkzheng99/ViLLa) |
-| AL-Ref-SAM 2 | Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2408.15876) |  |
-| VideoLISA | One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos | NeurIPS | [PDF](https://arxiv.org/pdf/2409.19603)| [Code](https://github.com/showlab/VideoLISA) |
-| UniPHD | Referring Human Pose and Mask Estimation In the Wild |NeurIPS| [PDF](https://arxiv.org/abs/2410.20508) | [Code](https://github.com/bo-miao/RefHuman) |
 | REM |ReferEverything: Towards Segmenting Everything We Can Speak of in Videos|Arxiv|[PDF](https://arxiv.org/pdf/2410.23287)|[Code](https://miccooper9.github.io/projects/ReferEverything/)|
 | OMFormer | Show Me When and Where: Towards Referring Video Object Segmentation in the Wild | Arxiv | | [Code](https://github.com/gaomingqi/YoURVOS) |
 | HyperSeg | HyperSeg: Towards Universal Visual Segmentation with Large Language Model | Arxiv | [PDF](https://arxiv.org/pdf/2411.17606) |[Code](https://github.com/congvvc/HyperSeg) |
@@ -58,7 +65,6 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | VLT         | VLT: Vision-Language Transformer and Query Generation for Referring Segmentation | TPAMI   | [PDF](https://ieeexplore.ieee.org/abstract/document/9932025) | [Code](https://github.com/henghuiding/Vision-Language-Transformer) |
 | LASTC*      | Language-Aware Spatial-Temporal Collaboration for Referring Video Segmentation | TPAMI   | [PDF](https://ieeexplore.ieee.org/document/10013778)         |                                                              |
 | CLUE        | CLUE: Contrastive language-guided learning for referring video object segmentation | PRL     | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167865523003641) |                                                              |
-| BIFIT       | Bidirectional Correlation-Driven Inter-Frame Interaction Transformer for Referring Video Object Segmentation | Arxiv   | [PDF](https://arxiv.org/pdf/2307.00536.pdf)                  |                                                              |
 | EPCFormer   | EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation | Arxiv   | [PDF](https://arxiv.org/pdf/2308.04162.pdf)                  | [Code](https://github.com/lab206/EPCFormer)                  |
 | RefSAM      | Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation | Arxiv   | [PDF](https://arxiv.org/pdf/2307.00997.pdf)                  | [Code](https://github.com/LancasterLi/RefSAM)                |
 | UniRef++    | UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces | Arxiv   | [PDF](https://arxiv.org/abs/2312.15715)                      | [Code](https://github.com/FoundationVision/UniRef)           |
