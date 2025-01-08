@@ -10,6 +10,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | Model    | Title                                                        | Venue | Paper                                                        | Code                                          |
 | -------- | :----------------------------------------------------------- | :---- | :----------------------------------------------------------- | --------------------------------------------- |
 | AL-Ref-SAM 2 | Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation | AAAI | [PDF](https://arxiv.org/pdf/2408.15876) | [Code](https://github.com/appletea233/AL-Ref-SAM2) |
+| Sa2VA | Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos | arxiv |  | [Code](https://github.com/magic-research/Sa2VA/) |
 
 
 ## 2024
