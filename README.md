@@ -13,6 +13,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | MTCM | Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation | ICASSP | [PDF](https://arxiv.org/pdf/2501.04939) | [Code](https://github.com/Choi58/MTCM) |
 | Sa2VA | Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos | arxiv | [PDF](https://arxiv.org/pdf/2501.04001) | [Code](https://github.com/magic-research/Sa2VA/) |
 | VRS-HQ | The Devil is in Temporal Token: High Quality Video Reasoning Segmentation | arxiv | [PDF](https://arxiv.org/pdf/2501.08549) | [Code](https://github.com/SitongGong/VRS-HQ) |
+| MPG-SAM 2 | MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation | arxiv | [PDF](https://arxiv.org/pdf/2501.13667) | |
 
 
 
