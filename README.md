@@ -11,8 +11,9 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | -------- | :----------------------------------------------------------- | :---- | :----------------------------------------------------------- | --------------------------------------------- |
 | AL-Ref-SAM 2 | Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation | AAAI | [PDF](https://arxiv.org/pdf/2408.15876) | [Code](https://github.com/appletea233/AL-Ref-SAM2) |
 | MTCM | Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation | ICASSP | [PDF](https://arxiv.org/pdf/2501.04939) | [Code](https://github.com/Choi58/MTCM) |
+| VRS-HQ | The Devil is in Temporal Token: High Quality Video Reasoning Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2501.08549) | [Code](https://github.com/SitongGong/VRS-HQ) |
+| VideoGLaMM | A Large Multimodal Model for Pixel-Level Visual Grounding in Videos | CVPR | [PDF](https://arxiv.org/pdf/2411.04923) | [Code](https://github.com/mbzuai-oryx/VideoGLaMM) |
 | Sa2VA | Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos | Arxiv | [PDF](https://arxiv.org/pdf/2501.04001) | [Code](https://github.com/magic-research/Sa2VA/) |
-| VRS-HQ | The Devil is in Temporal Token: High Quality Video Reasoning Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2501.08549) | [Code](https://github.com/SitongGong/VRS-HQ) |
 | MPG-SAM 2 | MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2501.13667) | |
 | ReferDINO | ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations | Arxiv | [PDF](https://arxiv.org/pdf/2501.14607) | [Code](https://github.com/iSEE-Laboratory/ReferDINO) |
 
