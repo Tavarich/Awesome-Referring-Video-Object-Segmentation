@@ -13,6 +13,8 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | MTCM | Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation | ICASSP | [PDF](https://arxiv.org/pdf/2501.04939) | [Code](https://github.com/Choi58/MTCM) |
 | VRS-HQ | The Devil is in Temporal Token: High Quality Video Reasoning Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2501.08549) | [Code](https://github.com/SitongGong/VRS-HQ) |
 | VideoGLaMM | A Large Multimodal Model for Pixel-Level Visual Grounding in Videos | CVPR | [PDF](https://arxiv.org/pdf/2411.04923) | [Code](https://github.com/mbzuai-oryx/VideoGLaMM) |
+| SAMWISE | SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2411.17646) |[Code](https://github.com/ClaudiaCuttano/SAMWISE)|
+| HyperSeg | HyperSeg: Towards Universal Visual Segmentation with Large Language Model | CVPR | [PDF](https://arxiv.org/pdf/2411.17606) |[Code](https://github.com/congvvc/HyperSeg) |
 | Sa2VA | Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos | Arxiv | [PDF](https://arxiv.org/pdf/2501.04001) | [Code](https://github.com/magic-research/Sa2VA/) |
 | MPG-SAM 2 | MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2501.13667) | |
 | ReferDINO | ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations | Arxiv | [PDF](https://arxiv.org/pdf/2501.14607) | [Code](https://github.com/iSEE-Laboratory/ReferDINO) |
@@ -46,9 +48,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | ViLLa | ViLLa: Video Reasoning Segmentation with Large Language Model | Arxiv | [PDF](https://arxiv.org/pdf/2407.14500) | [Code](https://github.com/rkzheng99/ViLLa) |
 | REM |ReferEverything: Towards Segmenting Everything We Can Speak of in Videos|Arxiv|[PDF](https://arxiv.org/pdf/2410.23287)|[Code](https://miccooper9.github.io/projects/ReferEverything/)|
 | OMFormer | Show Me When and Where: Towards Referring Video Object Segmentation in the Wild | Arxiv | | [Code](https://github.com/gaomingqi/YoURVOS) |
-| HyperSeg | HyperSeg: Towards Universal Visual Segmentation with Large Language Model | Arxiv | [PDF](https://arxiv.org/pdf/2411.17606) |[Code](https://github.com/congvvc/HyperSeg) |
 | InstructSeg | InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models | Arxiv | [PDF](https://arxiv.org/pdf/2412.14006) |[Code](https://github.com/congvvc/InstructSeg) |
-| SAMWISE | SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2411.17646) |[Code](https://github.com/ClaudiaCuttano/SAMWISE)|
 | MoRA | Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level | Arxiv | [PDF](https://arxiv.org/abs/2411.09921) | [Project](https://groundmore.github.io/) |
 | SOLA | Referring Video Object Segmentation via Language-aligned Track Selection | Arxiv | [PDF](https://arxiv.org/pdf/2412.01136) | [Project](https://cvlab-kaist.github.io/SOLA/) | 
 | Video-LLaVA-Seg | ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2412.09754) | [Project](https://ali2500.github.io/vicas-project/) |
