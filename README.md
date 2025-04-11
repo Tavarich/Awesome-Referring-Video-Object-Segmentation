@@ -15,6 +15,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | VideoGLaMM | A Large Multimodal Model for Pixel-Level Visual Grounding in Videos | CVPR | [PDF](https://arxiv.org/pdf/2411.04923) | [Code](https://github.com/mbzuai-oryx/VideoGLaMM) |
 | SAMWISE | SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2411.17646) |[Code](https://github.com/ClaudiaCuttano/SAMWISE)|
 | HyperSeg | HyperSeg: Towards Universal Visual Segmentation with Large Language Model | CVPR | [PDF](https://arxiv.org/pdf/2411.17606) |[Code](https://github.com/congvvc/HyperSeg) |
+| GLUS | GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2504.07962) | [Code](https://github.com/GLUS-video/GLUS) |
 | Sa2VA | Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos | Arxiv | [PDF](https://arxiv.org/pdf/2501.04001) | [Code](https://github.com/magic-research/Sa2VA/) |
 | MPG-SAM 2 | MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2501.13667) | |
 | ReferDINO | ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations | Arxiv | [PDF](https://arxiv.org/pdf/2501.14607) | [Code](https://github.com/iSEE-Laboratory/ReferDINO) |
