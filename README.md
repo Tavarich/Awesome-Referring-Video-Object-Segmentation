@@ -20,7 +20,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | MPG-SAM 2 | MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2501.13667) | |
 | ReferDINO | ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations | Arxiv | [PDF](https://arxiv.org/pdf/2501.14607) | [Code](https://github.com/iSEE-Laboratory/ReferDINO) |
 | FindTrack | Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation |Arxiv| [PDF](https://arxiv.org/pdf/2503.03492)| [Code](https://github.com/suhwan-cho/FindTrack) |
-
+| FS-RVOS | Few-Shot Referring Video Single- and Multi-Object Segmentation via Cross-Modal Affinity with Instance Sequence Matching |Arxiv| [PDF](https://arxiv.org/pdf/2504.13710)| |
 
 
 ## 2024
