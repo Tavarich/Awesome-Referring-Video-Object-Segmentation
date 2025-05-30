@@ -1,6 +1,6 @@
 # Awesome-Referring-Video-Object-Segmentation[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Continually updating papers of referring video object segmentation😊
+Continually updating papers of referring (and reasoning) video object segmentation😊
 
 \* refers to no official method name🫡 
 
@@ -22,7 +22,9 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | ReferDINO | ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations | Arxiv | [PDF](https://arxiv.org/pdf/2501.14607) | [Code](https://github.com/iSEE-Laboratory/ReferDINO) |
 | FindTrack | Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation |Arxiv| [PDF](https://arxiv.org/pdf/2503.03492)| [Code](https://github.com/suhwan-cho/FindTrack) |
 | FS-RVOS | Few-Shot Referring Video Single- and Multi-Object Segmentation via Cross-Modal Affinity with Instance Sequence Matching |Arxiv| [PDF](https://arxiv.org/pdf/2504.13710)| |
-| Long-RVOS | Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2505.12702) | [Code]( https://isee-laboratory.github.io/Long-RVOS) |
+| Long-RVOS | Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2505.18561) | [Code]( https://isee-laboratory.github.io/Long-RVOS) |
+| ThinkVideo |ThinkVideo: High-Quality Reasoning Video Segmentation with Chain of Thoughts | Arxiv | [PDF](https://arxiv.org/pdf/2505.12702) | [Code](https://github.com/DanielSHKao/ThinkVideo) |
+| Survey | Reasoning Segmentation for Images and Videos: A Survey | Arxiv | [PDF](https://arxiv.org/pdf/2505.18816) |  |
 
 
 ## 2024
