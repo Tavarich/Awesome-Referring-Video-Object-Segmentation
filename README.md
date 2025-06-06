@@ -25,6 +25,7 @@ Other awesome projects: [Awesome-Video-Instance-Segmentation](https://github.com
 | Long-RVOS | Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2505.18561) | [Code]( https://isee-laboratory.github.io/Long-RVOS) |
 | ThinkVideo |ThinkVideo: High-Quality Reasoning Video Segmentation with Chain of Thoughts | Arxiv | [PDF](https://arxiv.org/pdf/2505.12702) | [Code](https://github.com/DanielSHKao/ThinkVideo) |
 | Survey | Reasoning Segmentation for Images and Videos: A Survey | Arxiv | [PDF](https://arxiv.org/pdf/2505.18816) |  |
+| InterRVOS | InterRVOS: Interaction-aware Referring Video Object Segmentation | Arxiv | [PDF](https://arxiv.org/pdf/2506.02356) | [Code](https://cvlab-kaist.github.io/InterRVOS) |
 
 
 ## 2024
